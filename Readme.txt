@@ -1,7 +1,7 @@
 A data set, Cricket.csv contains 3,932 results of cricket matches from 1971 to 2017. Columns (variables) in the data set are listed in Exhibit 1, below.
 
 EXHIBIT 1		
-Scorecard	 	Index number
+Scorecard	 Index number
 Team 1 	 	Host team.
 Team 2	 	Visiting team 
 Winner	 	Winning team
